@@ -29,3 +29,5 @@ int main(){
 	cout<<"Using Built-In Functions "<<inbuilt(nums)<<endl;
 	return 0;
 }
+/* All approaches exhibit linear growth with respect to the size of the input vector(n). But in built function is more optimal for practical use than all.*/
+/* Time  complexity of all three methods is same Big O (n)*/
